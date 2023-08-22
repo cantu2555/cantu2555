@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Exploration With Stock Market Data</b>
+  - [Stock Market Data Lab](https://github.com/cantu2555/Stock-Market-Data-Lab)
 
 <h2> Certifications </h2>
 
