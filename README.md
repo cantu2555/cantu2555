@@ -6,7 +6,7 @@
   - [Stock Market Data Lab](https://github.com/cantu2555/Stock-Market-Data-Lab)
 
 - <b> City Infill Analysis</b>
-  - [Infill_Analysis](https://github.com/cantu2555/Stock-Market-Data-Lab)
+  - [Infill_Analysis](https://github.com/cantu2555/Infill_Analysis)
 
 <h2> Certifications </h2>
 
