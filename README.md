@@ -7,13 +7,16 @@
 
 - <b> City Infill Analysis</b>
   - [Infill_Analysis](https://github.com/cantu2555/Infill_Analysis)
-
+  
+- <b>Stock Market Pipe Funnel</b>
+  - [Stock Market Pipe Funnel](https://github.com/cantu2555/-Stock-Market-Pipe-Funnel-)
+    
 <h2> Certifications </h2>
 
 <h2>📺 Popular YouTube Videos</h2>
 
 -  ### [Infill_Analysis YouTube Demonstration](https://youtu.be/4mRkdseSnO8)
--  ### [Market Pipe Funnel](https://youtu.be/LGoyCpiYvhI)
+-  ### [Stock Market Pipe Funnel](https://youtu.be/LGoyCpiYvhI)
 
 
 <h2> 🤳 Connect with me:</h2>
