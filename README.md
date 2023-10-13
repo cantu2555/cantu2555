@@ -16,7 +16,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 -  ### [Infill_Analysis YouTube Demonstration](https://youtu.be/4mRkdseSnO8)
--  ### [Stock Market Pipe Funnel](https://youtu.be/LGoyCpiYvhI)
+-  ### [Stock Market Pipe Funnel](https://youtu.be/pqBF1z3ZyHk)
 
 
 <h2> 🤳 Connect with me:</h2>
