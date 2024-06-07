@@ -23,7 +23,7 @@
 -  ### [Stock Market Pipe Funnel](https://youtu.be/pqBF1z3ZyHk)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📫 Connect with me:</h2>
   cantu2555@gmail.com
 
 
