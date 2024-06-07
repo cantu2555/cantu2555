@@ -23,6 +23,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+  cantu2555@gmail.com
 
 
 [twitter]: https://twitter.com/joshmadakor
