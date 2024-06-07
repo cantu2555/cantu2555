@@ -11,7 +11,10 @@
 - <b>Stock Market Pipe Funnel</b>
   - [Stock Market Pipe Funnel](https://github.com/cantu2555/-Stock-Market-Pipe-Funnel-)
     
-<h2> Certifications </h2>
+<h2> Education </h2>
+  Master of Science in Data Science | Bellevue University, Bellevue, NE
+  
+  Bachelor of Science in Construction Engineering, Mathematics | Texas Tech University, Lubbock, TX
 
 <h2>📺 Popular YouTube Videos</h2>
 
