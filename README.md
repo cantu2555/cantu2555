@@ -14,7 +14,7 @@
 <h2> Education </h2>
   Master of Science in Data Science | Bellevue University, Bellevue, NE
   
-  Bachelor of Science in Construction Engineering, Mathematics | Texas Tech University, Lubbock, TX
+  Bachelor of Science in Construction Engineering | Texas Tech University, Lubbock, TX
 
 <h2>📺 Popular YouTube Videos</h2>
 
