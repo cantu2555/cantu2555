@@ -11,7 +11,7 @@
 - <b>Stock Market Pipe Funnel</b>
   - [Stock Market Pipe Funnel](https://github.com/cantu2555/-Stock-Market-Pipe-Funnel-)
     
-<h2> Education </h2>
+<h2>🎓 Education </h2>
   Master of Science in Data Science | Bellevue University, Bellevue, NE
   
   
