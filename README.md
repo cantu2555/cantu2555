@@ -7,6 +7,10 @@
 
 - <b>Data Exploration With Stock Market Data</b>
   - [Stock Market Data Lab](https://github.com/cantu2555/Stock-Market-Data-Lab)
+ 
+- <b>Google Cloud Data Analysis With Hotel Bookings</b>
+  - [Hotel Bookings Data Lab](https://github.com/cantu2555/Google-Cloud-Hotel-Bookings-Analysis)
+
 
 - <b> City Infill Analysis</b>
   - [Infill_Analysis](https://github.com/cantu2555/Infill_Analysis)
