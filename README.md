@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Preditive Modelling Diabetes Prediction</b>
+- <b>Predictive Modelling Diabetes Prediction</b>
   - [Diabetes Prediction Lab](https://github.com/cantu2555/-Diabetes-Prediction-Project-/tree/main)
 
 - <b>Data Exploration With Stock Market Data</b>
