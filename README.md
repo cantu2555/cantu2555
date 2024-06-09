@@ -19,7 +19,10 @@
 
  - <b> United Airlines Data Campaign</b>
    - [Data Campaign](https://github.com/cantu2555/Data-Campaign-United-Airlines)
-    
+  
+- <b>Sentiment Modelling for Cancer Patients</b>
+  - [Sentiment Model Lab](https://github.com/cantu2555/Cancer-Sentiment-Model)
+
 <h2>🎓 Education </h2>
   Master of Science in Data Science | Bellevue University, Bellevue, NE
   
