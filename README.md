@@ -1,5 +1,6 @@
 <h1>Hi, I'm Thomas! </h1>
-
+<h2>💁  About:</h2>
+I am a dedicated Data Scientist with a passion for leveraging data-driven insights to solve complex problems. With a strong foundation in statistical analysis, machine learning, and programming, I excel in transforming raw data into actionable strategies that drive business growth and innovation. My experience spans diverse industries, where I have applied advanced analytics to optimize processes and inform decision-making. I thrive in collaborative environments and am eager to contribute my expertise to impactful projects that push the boundaries of data science.
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Predictive Modelling Diabetes Prediction</b>
