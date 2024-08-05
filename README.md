@@ -12,6 +12,9 @@ I am a dedicated Data Scientist with a passion for leveraging data-driven insigh
 - <b>Google Cloud Data Analysis With Hotel Bookings</b>
   - [Hotel Bookings Data Lab](https://github.com/cantu2555/Google-Cloud-Hotel-Bookings-Analysis)
 
+- <b> Oncology Proportional Hazzard Regression</b>
+  - [Oncology Hazzard Regression](https://github.com/cantu2555/Oncology-Hazard-Regression)
+    
 - <b> City Infill Analysis</b>
   - [Infill_Analysis](https://github.com/cantu2555/Infill_Analysis)
   
