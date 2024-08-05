@@ -23,6 +23,9 @@ I am a dedicated Data Scientist with a passion for leveraging data-driven insigh
 
 - <b>Computational Resources on AI Advancements</b>
    - [AI Advancement Impact](https://github.com/cantu2555/AI-Advancement-Impact)
+
+ - <b> Customer Segmentation Cluster Model</b>
+   - [Customer Market Segmentation](https://github.com/cantu2555/Marketplace-Customer-Segmentation-Model)
      
  - <b> United Airlines Data Campaign</b>
    - [Data Campaign](https://github.com/cantu2555/Data-Campaign-United-Airlines)
