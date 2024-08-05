@@ -21,6 +21,9 @@ I am a dedicated Data Scientist with a passion for leveraging data-driven insigh
 - <b>Stock Market Pipe Funnel</b>
   - [Stock Market Pipe Funnel](https://github.com/cantu2555/-Stock-Market-Pipe-Funnel-)
 
+- <b>Computational Resources on AI Advancements</b>
+   - [AI Advancement Impact](https://github.com/cantu2555/AI-Advancement-Impact)
+     
  - <b> United Airlines Data Campaign</b>
    - [Data Campaign](https://github.com/cantu2555/Data-Campaign-United-Airlines)
   
